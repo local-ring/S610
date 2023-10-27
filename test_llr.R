@@ -1,8 +1,6 @@
 context("Check local linear regression function")
 source("llr_functions.R")
 
-
-
 n = 15
 ## a very simple regression model
 x = rnorm(n)
